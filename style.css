@@ -30,3 +30,6 @@ header {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+.m-left i {
+  margin-right: 10px;
+}
